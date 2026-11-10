@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="5by5-LacosRepeticao/5by5-LacosRepeticao.csproj" />
+  <Project Path="Ex1MostrarTabuada/Ex1MostrarTabuada.csproj" />
+  <Project Path="Ex2-ImpressãoFibonacci/Ex2-ImpressãoFibonacci.csproj" />
 </Solution>
