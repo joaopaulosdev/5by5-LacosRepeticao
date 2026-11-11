@@ -7,6 +7,7 @@ Console.Write("Insira até que número você quer que exiba, partindo do 0: ");
 numAlvo = int.Parse(Console.ReadLine());
 
 
+//OUTPUT
 Console.WriteLine("\nNÚMEROS ÍMPARES:\n");
 for(int i = 1; i <= numAlvo; i+=2)
 {   
@@ -14,9 +15,16 @@ for(int i = 1; i <= numAlvo; i+=2)
 }
 
 Console.WriteLine("\nNÚMEROS PARES:\n");
-for (int i = 0; i <= numAlvo; i += 2)
+if(numAlvo % 2 != 0)
 {
+    numAlvo--;
+}
+
+for (int i = numAlvo; i >= 0; i -= 2)
+{
+    
     Console.WriteLine(i);
+    
 }
 
 Console.WriteLine("\n-- NUMEROS IMPRESSOS, PROGRAMA FINALIZADO! --");
