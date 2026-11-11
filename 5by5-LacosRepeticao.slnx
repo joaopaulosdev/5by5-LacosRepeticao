@@ -2,4 +2,7 @@
   <Project Path="5by5-LacosRepeticao/5by5-LacosRepeticao.csproj" />
   <Project Path="Ex1MostrarTabuada/Ex1MostrarTabuada.csproj" />
   <Project Path="Ex2-ImpressãoFibonacci/Ex2-ImpressãoFibonacci.csproj" />
+  <Project Path="Ex3-ExibicaoNumInteiros/Ex3-ExibicaoNumInteiros.csproj" Id="3cdd6ea6-31e2-4d65-a781-ff0b83e155fb" />
+  <Project Path="Ex4-MostrarNumPrimos/Ex4-MostrarNumPrimos.csproj" Id="4a42e47b-90c6-4101-9464-188ce7e7b314" />
+  <Project Path="Ex5-MostrarFatorial/Ex5-MostrarFatorial.csproj" Id="5efb1fd3-13d0-40b4-9197-2fd556b5f7f0" />
 </Solution>
